@@ -26,7 +26,7 @@ const Companypg = () => {
 
        <Card> 
 
-      <Button  type='submit'  style={{alignSelf:'end'}} onClick={handlebutton} className=" h-25">Edit</Button>
+      <Button  type='submit'  style={{alignSelf:'end'}} onClick={handlebutton} className=" h-25">{userdisable ? 'Edit' :'Save'}</Button>
          
      <Row className="mb-15 mt-2 ">
     <Form.Group as={Col} >
