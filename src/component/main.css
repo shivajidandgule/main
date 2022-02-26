@@ -1,0 +1,28 @@
+
+
+.dv1{
+    /* position: relative; */
+    /* background-color: red; */
+    margin-top: -10;
+    /* display: inline-block; */
+    width: 30%;
+    height: 50vh;
+}
+.dv2{
+    background-color: brown;
+    /* margin-top: 0; */
+    /* margin-bottom: 500px;
+
+    margin-left: 100px;
+    /* display: inline-block; */
+     width: 140vh; 
+     height:800px; 
+     /* margin-bottom: 500px; */
+     position:relative;
+    left: 300px;
+    bottom: 470px;
+}
+
+.dv1{
+    display: flex;
+}

@@ -1,0 +1,13 @@
+
+label{
+    font-size: 25px;
+}
+
+input{
+    margin-left: 2px;
+}
+.logbtn{
+    position: relative;
+    top: 25px;
+}
+
